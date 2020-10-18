@@ -14,8 +14,8 @@
       "state":"NC",
       "zip": "27713"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "",
+    "resumedownload":"docs/TasneemFarag.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -50,7 +50,7 @@
         "company":"IBM",
         "title":"Software Engineer",
         "years":"September 2017 - October 2019",
-        "description":"At IBM I worked with two teams. One was product pages where we used Drupal as CMS with PHP and CSS. The other one was page patterns. I worked closely with designers and UX experts to build UI components using React.js , CSS and HTML.\n\nIn my Jumpstart program got the smart umbrella patent approved."
+        "description":"At IBM I worked with two teams. One was product pages where we used Drupal as CMS with PHP and CSS. The other one was page patterns. I worked closely with designers and UX experts to build UI components using React.js , CSS and HTML. In my Jumpstart program I got a smart umbrella patent approved."
       }
     ],
     "skills":[
@@ -91,16 +91,18 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Todo List",
+        "category":"Your to go app to get organized!",
+        "image":"todo-list.jpg",
+        "url":"https://todo-list-8yik.onrender.com",
+        "giturl": "https://github.com/tasneemfarag/todo-list"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Build your Burger",
+        "category":"To build a burger when you are hungry",
+        "image":"burger-builder.jpg",
+        "url":"https://burger-builder-1jna.onrender.com",
+        "giturl": "https://github.com/tasneemfarag/burger-builder"
       }
     ]
   }

@@ -20,7 +20,7 @@ class Portfolio extends Component {
             </a>
           </div>
           <div className="item-wrap">
-            <a href={projects.url}>Code</a>
+            <a href={projects.giturl}>Code</a>
           </div>
         </div>
       })
